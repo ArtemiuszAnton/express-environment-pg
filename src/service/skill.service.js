@@ -10,5 +10,4 @@ async function createNewSkill(label, category, priority) {
 }
 
 
-
 module.exports = { getAllSkills, createNewSkill }
