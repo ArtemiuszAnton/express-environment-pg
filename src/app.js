@@ -1,6 +1,6 @@
 const express = require('express');
 const bodyParser = require('body-parser');
-const route  = require('./controller/skill.controller')
+const route = require('./controller/skill.controller')
 
 const app = express();
 
